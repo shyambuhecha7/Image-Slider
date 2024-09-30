@@ -42,5 +42,24 @@ class MainActivity : AppCompatActivity() {
 
     }
 
+    //bedge
+    // Add badge to the Notifications item
+//    val badge = bottomNavigationView.getOrCreateBadge(R.id.nav_notifications)
+//    badge.isVisible = true
+//    badge.number = 10
+
+    //custom
+
+//    val badge = bottomNavigationView.getOrCreateBadge(R.id.nav_notifications)
+//    badge.isVisible = true
+//    badge.number = 10 // Set the badge count
+//    badge.badgeGravity = BadgeDrawable.TOP_END // Adjust position
+//    badge.backgroundColor = getColor(R.color.colorAccent) // Set background color
+//    badge.badgeTextColor = getColor(R.color.white) // Set text color
+
+
+    //remove
+// bottomNavigationView.removeBadge(R.id.nav_notifications)
+
 
 }
